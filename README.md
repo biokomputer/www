@@ -1,4 +1,4 @@
-# [www.biokomputer.pl](http://www.biokomputer.pl)
+# [biokomputery.pl](http://www.biokomputery.pl)
 
 Biokomputery mają potencjał na przekształcenie wielu aspektów technologii i medycyny, ale ich rozwój i implementacja powinny być przeprowadzone z odpowiednią ostrożnością i zrozumieniem potencjalnych zagrożeń.
 

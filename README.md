@@ -246,5 +246,5 @@ Te rozwiązania są jedynie propozycjami i wymagałyby szczegółowego opracowan
 + [wetware.pl](http://wetware.pl)
 + [organi.cam continuous monitoring of crop health](https://www.organicam.com/)
 + [wetware.dev](http://wetware.dev)
-
++ [OpenWetWare](https://openwetware.org/wiki/Main_Page)
   

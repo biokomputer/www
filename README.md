@@ -243,7 +243,8 @@ Te rozwiązania są jedynie propozycjami i wymagałyby szczegółowego opracowan
 ### Inne strony
 
 + [biosoc.org](http://biosoc.org)
-+ [wetware.pl](http://wetware.dev)
++ [wetware.pl](http://wetware.pl)
++ [organi.cam continuous monitoring of crop health](https://www.organicam.com/)
 + [wetware.dev](http://wetware.dev)
 
   

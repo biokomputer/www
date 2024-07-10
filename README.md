@@ -6,9 +6,10 @@
 Poniżej omówiono koncepcje biokomputerów, biocomputingu i biosoc (społeczeństwa biologicznego), koncentrując się na ich potencjale, korzyściach, wyzwaniach i możliwych rozwiązaniach.
 
 ### Biocomputing i biokomputery:
-- zwiększona moc obliczeniową, efektywność energetyczną i nowe możliwości w medycynie i badaniach naukowych.
+- Zwiększona moc obliczeniowa i efektywność energetyczna otwierają nowe możliwości w medycynie i badaniach naukowych.
 - Zastosowania obejmują medycynę spersonalizowaną, analizę danych biologicznych i projektowanie leków.
 - Wyzwania dotyczą bezpieczeństwa biologicznego, etyki, prywatności i potencjalnych zagrożeń ekologicznych.
+
 
 ### Rozwój biokomputerów wymaga:
 - Regulacji prawnych i etycznych
@@ -16,9 +17,11 @@ Poniżej omówiono koncepcje biokomputerów, biocomputingu i biosoc (społeczeń
 - Edukacji społeczeństwa
 - Międzynarodowej współpracy
 
+
 ### Biosoc (społeczeństwo biologiczne):
 - Integracja biologii z technologią i życiem społecznym
 - Wyzwania obejmują prywatność, bezpieczeństwo, etykę, nierówności, zdrowie, wpływ na środowisko, edukację, kontrolę i adaptację społeczną.
+
 
 ### Proponowane rozwiązania dla wyzwań biosoc:
 - Zaawansowane systemy szyfrowania danych

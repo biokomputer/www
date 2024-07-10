@@ -243,10 +243,14 @@ Te rozwiązania są jedynie propozycjami i wymagałyby szczegółowego opracowan
 
 
 
-### Inne strony
+### Polskie strony
+
++ [wetware.pl](http://wetware.pl)
++ [mikrobiolog.pl - przewodnik po świecie mikrobiologii](http://www.mikrobiolog.pl/)
+
+### globalne 
 
 + [biosoc.org](http://biosoc.org)
-+ [wetware.pl](http://wetware.pl)
 + [organi.cam continuous monitoring of crop health](https://www.organicam.com/)
 + [wetware.dev](http://wetware.dev)
 + [OpenWetWare](https://openwetware.org/wiki/Main_Page)

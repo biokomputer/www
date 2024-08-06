@@ -455,6 +455,89 @@ Analiza potencjalnych ekosystemów na innych planetach, rozwój systemów podtrz
 Zastosowanie medycyny w warunkach mikrograwitacji, telemedycyny do opieki nad astronautami, rozwój nowych metod diagnostyki i leczenia dostosowanych do warunków kosmicznych oraz badanie wpływu przestrzeni kosmicznej na zdrowie człowieka, w tym radiacja i długoterminowy pobyt w małej grawitacji.
 
 
+### Powiązania i skojarzenia Biotech z Medtech
+Powiązania i skojarzenia pokazują, jak biotechnologia i medtech współpracują, aby poprawić diagnostykę, leczenie i monitorowanie zdrowia, tworząc bardziej precyzyjną i efektywną opiekę zdrowotną.
+Biotechnologia (Biotech) i technologia medyczna (Medtech) mają wiele wspólnych obszarów skojarzeń i zastosowań. 
+
+1. **Genomika**
+Integracja technologii genomowej pozwala na personalizację terapii medycznych, uwzględniając indywidualne różnice genetyczne.
+- **#Genomics**
+- **#PersonalizedMedicine**
+- **#GeneEditing**
+
+2. **Diagnostyka**
+Innowacje w biotechnologii i medtech umożliwiają precyzyjną i szybką diagnostykę chorób na poziomie molekularnym. 
+- **#BiomedicalDiagnostics**
+- **#MolecularDiagnostics**
+- **#PointOfCareTesting**
+
+3. **Terapie Celowane**
+Wykorzystanie biologii molekularnej i urządzeń medycznych do rozwijania terapii, które specyficznie celują w komórki nowotworowe lub inne cele terapeutyczne.
+- **#TargetedTherapies**
+- **#PrecisionMedicine**
+- **#BiologicDrugs**
+
+4. **Inżynieria Tkankowa**
+Łączy technologie do hodowli i regeneracji tkanek oraz narządów, potencjalnie eliminując potrzebę transplantacji.
+- **#TissueEngineering**
+- **#RegenerativeMedicine**
+- **#StemCellTherapy**
+
+5. **Technologie Obrazowania**
+Innowacje w medtech oraz biotechnologii umożliwiają lepsze obrazowanie biologii ciała na poziomie komórkowym i molekularnym.
+- **#MedicalImaging**
+- **#Bioimaging**
+- **#RadiologyTech**
+
+6. **Biomateriały**
+Projektowanie biomateriałów, które są kompatybilne z ludzkimi tkankami do zastosowań takich jak implanty i protezy. 
+- **#Biomaterials**
+- **#ImplantableDevices**
+- **#Nanomedicine**
+
+7. **Urządzenia Medyczne**
+Rozwój zaawansowanych urządzeń medycznych, które mogą monitorować zdrowie pacjenta, dostarczać leki lub wspomagać funkcjonowanie organizmu.
+- **#MedicalDevices**
+- **#WearableHealthTech**
+- **#SmartMedicalDevices**
+
+8. **Biorobotyka**
+Integracja robotyki w medycynie do wykonania precyzyjnych operacji oraz w rehabilitacji pacjentów.
+- **#Biorobotics**
+- **#SurgicalRobotics**
+- **#RehabilitationRobots**
+
+9. **Sztuczne Organy**
+Wykorzystanie technologii bioprintingu i inżynierii tkankowej do tworzenia funkcjonalnych, sztucznych organów.
+- **#ArtificialOrgans**
+- **#Bioprinting**
+- **#OrganTransplantation**
+
+10. **Monitorowanie danych zdrowotnych**
+Zastosowanie technologii do ciągłego monitorowania zdrowia pacjenta, co umożliwia szybkie reagowanie na zmiany.
+- **#HealthDataMonitoring**
+- **#Telehealth**
+- **#RemotePatientMonitoring**
+
+11. **Leki Biologiczne**
+Produkcja leków o złożonych strukturach biologicznych, takich jak monoklonalne przeciwciała, szczepionki i hormony.
+- **#Biopharmaceuticals**
+- **#Biologics**
+- **#Biosimilars**
+
+12. **Wearable Technology**
+Urządzenia noszone, które mogą monitorować zdrowie użytkownika w czasie rzeczywistym, gromadzić dane o aktywności fizycznej i parametrach życiowych.
+- **#WearableTech**
+- **#HealthWearables**
+- **#FitnessTrackers**
+
+13. **Informatyka medyczna**
+Integracja informatyki i biotechnologii w celu gromadzenia, analizowania i interpretacji danych zdrowotnych.
+- **#HealthInformatics**
+- **#Bioinformatics**
+- **#EHRSystems**
+
+
 
 
 

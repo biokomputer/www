@@ -473,3 +473,4 @@ Zastosowanie medycyny w warunkach mikrograwitacji, telemedycyny do opieki nad as
 ### menu
 
 + [edycja](https://github.com/biokomputer/www/edit/main/README.md)
++ [projekt](https://github.com/biokomputer/www)

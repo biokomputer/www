@@ -335,8 +335,6 @@ Taka struktura zapewnia wszechstronne spojrzenie na temat biocomputingu i jego z
 
 ## Połaczenia
 
-![obraz](https://github.com/user-attachments/assets/28802b30-441f-49dd-9623-0cc08840f978)
-
 Ten graf ilustruje połączenia między różnymi dziedzinami (CBRNe, Biosoc, AI, Nanotechnology, Ecology, Medicine, Space) bez uwzględnienia Biocomputingu, pokazując jak każde z tych zagadnień jest ze sobą powiązane.
 
 

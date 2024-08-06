@@ -470,3 +470,6 @@ Zastosowanie medycyny w warunkach mikrograwitacji, telemedycyny do opieki nad as
 + [wetware.dev](http://wetware.dev)
 + [OpenWetWare](https://openwetware.org/wiki/Main_Page)
   
+### menu
+
++ [edycja](https://github.com/biokomputer/www/edit/main/README.md)

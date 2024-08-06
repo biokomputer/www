@@ -2,9 +2,6 @@
 ![obraz](https://github.com/user-attachments/assets/4f3edf66-756a-4844-a3fe-99c39f4d43dd)
 
 
-# [biokomputery.pl](http://www.biokomputery.pl)
-
-
 ## Wstęp
 
 Poniżej omówiono koncepcje biokomputerów, biocomputingu i biosoc (społeczeństwa biologicznego), koncentrując się na ich potencjale, korzyściach, wyzwaniach i możliwych rozwiązaniach.

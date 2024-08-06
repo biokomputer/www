@@ -661,6 +661,83 @@ graph TD;
 - Warunki: Stałe monitorowanie wyników i eksperymentacje, ciągłe doskonalenie technologii.
 
 
+## Biocomputing dla poczatkujących
+
+Nauka biocomputingu to fascynujące i ambitne przedsięwzięcie, które wymaga zdobycia wiedzy z wielu różnych dziedzin. 
+Oto propozycja planu nauki juniora, który chce zgłębić ten temat, podzielonego na etapy z informacją, które tematy warto opanować najpierw.
+
+### Etap 1:
+
+1. **Matematyka**
+- **Podstawy Algebry**: Równania, funkcje, układy równań.
+- **Geometria Analityczna**: Proste, okręgi, elipsy.
+- **Podstawy Logiki Matematycznej**: Operatory logiczne, tabele prawdy.
+
+2. **Biologia**
+- **Biologia Molekularna**: Struktura DNA, RNA, białek.
+- **Genetyka**: Mechanizmy dziedziczenia, podstawy inżynierii genetycznej.
+- **Bioinformatyka**: Sekwencjonowanie DNA, podstawy analizy sekwencji.
+
+3. **Podstawy Informatyki**
+- **Podstawy Programowania**: Zacznij od języków takich jak Python, który jest prosty i wszechstronny.
+- **Algorytmy i Struktury Danych**: Podstawowe algorytmy sortowania, wyszukiwania, struktury danych (tablice, listy, stosy, kolejki).
+
+### Etap 2: 
+
+4. **Zaawansowana Matematyka**
+- **Kombinatoryka i Teoria Grafów**: Zastosowanie w rozwiązywaniu problemów bioinformatycznych.
+- **Rachunek różniczkowy i całkowy**: Podstawy analizy matematycznej.
+
+5. **Zaawansowana Biologia**
+- **Biochemia**: Struktura i funkcja molekuł biologicznych.
+- **Inżynieria Genetyczna**: Metody manipulacji DNA.
+- **Mikrobiologia**: Zróżnicowanie i funkcje mikroorganizmów.
+
+6. **Zaawansowana Informatyka**
+- **Języki Programowania do Analizy Danych (R, MATLAB)**: Narzędzia analizy statystycznej i wizualizacji.
+- **Sztuczna Inteligencja i Uczenie Maszynowe**: Podstawy algorytmów uczenia maszynowego.
+
+
+### Etap 3: 
+
+7. **Biocomputing Specyficzne**:
+- **DNA Computing**: Podstawy teoretyczne i praktyczne eksperymenty.
+- **Molecular Computing**: Zastosowanie cząsteczek do obliczeń.
+- **Synthetic Biology**: Projektowanie i budowa nowych systemów biologicznych.
+
+8. **Interdyscyplinarne Projekty**
+- **Projektowanie Biologicznych Systemów Logicznych**: Tworzenie systemów biologicznych zdolnych do wykonywania funkcji logicznych.
+- **Modelowanie i Symulacje Biologiczne**: Zastosowanie algorytmów do modelowania procesów biologicznych.
+- **Interdyscyplinarność w Praktyce**: Łączenie wiedzy z biologii, informatyki i matematyki w celu realizacji projektów biocomputingowych.
+
+
+
+### Kolejność Nauki
+
+Zaczynając od podstaw i stopniowo przechodząc do coraz bardziej zaawansowanych tematów, można efektywnie przyswajać wiedzę w zakresie biocomputingu. Kluczowe jest zrozumienie podstaw matematyki, biologii i informatyki, które stanowią fundament dla bardziej złożonych zagadnień w tej fascynującej dziedzinie.
+
+#### Najpierw:
+- Podstawy matematyki i logiki.
+- Podstawy biologii molekularnej i genetyki.
+- Podstawy informatyki i programowania.
+
+#### Następnie:
+- Zaawansowana matematyka (kombinatoryka, teoria grafów).
+- Zaawansowana biologia (biochemia, inżynieria genetyczna).
+- Zaawansowana informatyka (statystyka, uczenie maszynowe, AI).
+
+#### Na końcu:
+- Specyfika biocomputingu (DNA Computing, Molecular Computing).
+- Projekty interdyscyplinarne, które pozwalają na praktyczne zastosowanie zdobytej wiedzy.
+
+
+### Dodatkowe zasoby
+
+- **Kursy online**: Platformy takie jak Coursera, edX, Khan Academy.
+- **Książki**: Podręczniki do biologii molekularnej (np. "Molecular Biology of the Cell" Albertsa), podręczniki do informatyki (np. "Python for Data Analysis" Wes McKinney).
+- **Warsztaty i Koła Naukowe**: Udział w lokalnych warsztatach, kołach naukowych, czy klubach zainteresowań.
+- **Społeczności online**: Fora dyskusyjne, grupy na mediach społecznościowych, które zajmują się biocomputingiem.
+
 
 
 

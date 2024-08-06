@@ -1,3 +1,7 @@
+
+![obraz](https://github.com/user-attachments/assets/4f3edf66-756a-4844-a3fe-99c39f4d43dd)
+
+
 # [biokomputery.pl](http://www.biokomputery.pl)
 
 
@@ -255,3 +259,53 @@ Te rozwiązania są jedynie propozycjami i wymagałyby szczegółowego opracowan
 + [wetware.dev](http://wetware.dev)
 + [OpenWetWare](https://openwetware.org/wiki/Main_Page)
   
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=biokomputer/www&type=Date)](https://star-history.com/#biokomputer/www&Date)
+
+
+## [Contributions](http://contribution.softreck.dev)
+
+[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
++ did you found an [Issue or Mistake](https://github.com/biokomputer/www/issues/new)?
++ do you want to [improve](https://github.com/biokomputer/www/edit/main/README.md) the article?
++ are you interested do join another [git projects](https://github.com/biokomputer/)?
++ have something to contribute or discuss? [Open a pull request](https://github.com/biokomputer/www/pulls) or [create an issue](https://github.com/biokomputer/www/issues).
+
+
+
+## Autor
+
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/24abdad9-5aff-4834-95a0-d7215cc6e0bc)
+
+## Tom Sapletta
+
+Na co dzień DevOps, ewangelista hipermodularyzacji, ostatnio entuzjasta biocomputing.
+Łączy doświadczenie w programowaniu i research-u poprzez wdrażanie nowatorskich rozwiązań. 
+Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w branży owocują eksperymentalnymi projektami opensource.
+
++ [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
++ [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
+
+
+---
+
+
+
+<script type="module">    
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  //import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js';
+  mermaid.initialize({
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+  });
+  mermaid.init(undefined, '.language-mermaid');
+</script>
+

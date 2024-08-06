@@ -1,0 +1,11 @@
+title: "Czym są biokomputery, biocomputing i biosoc - www.biokomputery.pl"
+description: "Biocomputing to bardzo perspektywiczna technologia, która może przynieść ogromne korzyści, ale jednocześnie wymaga ostrożnego podejścia. Biosoc - biological society, to koncepcja, która łączy biologię z życiem społecznym i technologią."
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"  
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

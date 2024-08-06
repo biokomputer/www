@@ -246,26 +246,6 @@ Te rozwiązania są jedynie propozycjami i wymagałyby szczegółowego opracowan
 
 ## Struktura skojarzeń
 
- graf w składni Mermaid pokazujący połączenia skojarzeń między różnymi dziedzinami:
-
-```mermaid
-graph TD;
-    Biocomputing --> CBRNe
-    Biocomputing --> Biosoc
-    Biocomputing --> AI
-    Biocomputing --> Nanotechnology
-    Biocomputing --> Ecology
-    Biocomputing --> Medicine
-    Biocomputing --> Space
-    CBRNe --> Biocomputing
-    Biosoc --> Biocomputing
-    AI --> Biocomputing
-    Nanotechnology --> Biocomputing
-    Ecology --> Biocomputing
-    Medicine --> Biocomputing
-    Space --> Biocomputing
-```
-
 Taka struktura zapewnia wszechstronne spojrzenie na temat biocomputingu i jego zastosowania w różnych dziedzinach, wzbogacone odpowiednimi hasztagami dla szybszego kontekstowego zrozumienia.
 
 ### Biocomputing
